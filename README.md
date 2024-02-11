@@ -14,4 +14,5 @@ git commit
   This is a second line.
   
 > Figure out the reason behind the "Text qoute function"
+
 theme: jekyll-theme-Cayman
