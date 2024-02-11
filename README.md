@@ -15,4 +15,4 @@ git commit
   
 > Figure out the reason behind the "Text qoute function"
 
-jekyll-theme-theme-Cayman
+theme: jekyll-theme-minimal
